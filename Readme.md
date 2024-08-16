@@ -8,7 +8,7 @@
 
 <img src="Input\Billionaire.jpg" width="550">
 
-### 1. Average and variance of Top Billionaires' age
+### 1. Average and variance of Top Billionaires' Age
 ` Average of ages: 63`<br>
 `Variance of ages: 180.8`
 
